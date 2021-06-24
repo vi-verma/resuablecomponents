@@ -1,0 +1,20 @@
+.input_input{
+    display: block;
+    margin: auto;
+    padding: 1%;
+    width: 90%;
+    margin-bottom: 1%;
+}
+.label{
+    display: block;
+    font-size: 1rem;
+    margin-left: 5.2%;
+    font-weight: 800;
+    margin-bottom: 0.5%;
+}
+.card{
+    margin: auto;
+    width: 60%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
